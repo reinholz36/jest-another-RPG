@@ -18,5 +18,8 @@
   "homepage": "https://github.com/reinholz36/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
